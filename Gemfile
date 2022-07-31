@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 gem 'github-pages'
 
 
@@ -14,7 +14,7 @@ gem 'github-pages'
 # Happy Jekylling!
 
 # gem "rails"
-gem "jekyll" , '4.2.0'
+gem "jekyll" , '3.9.0'
 gem 'jekyll-liquify'
 gem 'jekyll-seo-tag'
 
