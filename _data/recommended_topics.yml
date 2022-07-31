@@ -2,7 +2,7 @@
   img: img/new/smile.png
   child:
     - subtitle: Multiforme y complejo
-      url: /docs/doc-element-tab
+      url: /docs/elbaile-multiforme-y-complejo
     - subtitle: Ritmos latinos/afrolatinos
       url: /docs/doc-element-notice
     - subtitle: La música
@@ -28,17 +28,17 @@
     - subtitle: Sentidos en disputa
       url: /docs/doc-layout-full-width
 
-- title: References
+- title: La investigación (2020-2022)
   img: img/new/house.png
   child:
-    - subtitle: Keyboard Shortcuts 
+    - subtitle: La apuesta
       url: /docs/doc-ref-shortcuts
-    - subtitle: Footnotes
+    - subtitle: El escenario
       url: /docs/doc-ref-footnotes
-    - subtitle: Interface Tour
+    - subtitle: Metodología
       url: /docs/doc-ref-tour
-    - subtitle: Can I Use
+    - subtitle: Diálogos teóricos
       url: /docs/doc-ref-can-use
-    - subtitle:  Tooltips & Direction
+    - subtitle:  El horizonte
       url: /docs/doc-content-tooltip
 
