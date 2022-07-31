@@ -1,44 +1,32 @@
-- title: Elements
+- title: El baile
   img: img/new/smile.png
   child:
-    - subtitle: Tabs Widget
+    - subtitle: Multiforme y complejo
       url: /docs/doc-element-tab
-    - subtitle: Notice / Message Widget
+    - subtitle: Ritmos latinos/afrolatinos
       url: /docs/doc-element-notice
-    - subtitle: Accordions Widget
+    - subtitle: La música
       url: /docs/doc-element-accordion
-    - subtitle: Cheatsheet Widget
-      url: /docs/doc-ref-cheatsheet
-    - subtitle: Image Hotspots Widget
-      url: /docs/doc-element-hotspots
 
-- title: Content
+- title: ¿Quién baila?
   img: img/new/doc.png
   child:
-    - subtitle: Video Widget
+    - subtitle: Las personas
       url: /docs/doc-content-video
-    - subtitle: Image Widget
+    - subtitle: Sus cuerpos
       url: /docs/doc-content-image
-    - subtitle: Table Widget
+    - subtitle: Identidades bailadas
       url: /docs/doc-element-table
-    - subtitle: Tooltip & Direction
-      url: /docs/doc-content-tooltip
-    - subtitle: Typography
-      url: /typography
 
-- title: Layout
+- title: Saberes y afectos
   img: img/new/bag.png
   child:
-    - subtitle: Aesthetic Banner Design
+    - subtitle: Saberes
       url: /docs/doc-layout-banner-gradient
-    - subtitle: Sticky Header with Navbar
+    - subtitle: Afectos
       url: /onepage
-    - subtitle: Full-width Layout
+    - subtitle: Sentidos en disputa
       url: /docs/doc-layout-full-width
-    - subtitle: Full-width No Right Sidebar
-      url: /docs/doc-layout-left-sidebar
-    - subtitle: Without Banner
-      url: /docs/doc-layout-banner-empty
 
 - title: References
   img: img/new/house.png
