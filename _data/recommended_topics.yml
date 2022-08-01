@@ -6,27 +6,27 @@
     - subtitle: Ritmos latinos/afrolatinos
       url: /docs/doc-element-notice
     - subtitle: La música
-      url: /docs/doc-element-accordion
+      url: /docs/elbaile-musica
 
 - title: ¿Quién baila?
   img: img/new/doc.png
   child:
     - subtitle: Las personas
-      url: /docs/doc-content-video
+      url: /docs/quienbaila-personas
     - subtitle: Sus cuerpos
-      url: /docs/doc-content-image
+      url: /docs/quienbaila-cuerpos
     - subtitle: Identidades bailadas
-      url: /docs/doc-element-table
+      url: /docs/quienbaila-identidades
 
 - title: Saberes y afectos
   img: img/new/bag.png
   child:
     - subtitle: Saberes
-      url: /docs/doc-layout-banner-gradient
+      url: /docs/saberes-y-afectos/saberes
     - subtitle: Afectos
-      url: /onepage
+      url: /docs/saberes-y-afectos/afectos
     - subtitle: Sentidos en disputa
-      url: /docs/doc-layout-full-width
+      url: /docs/saberes-y-afectos/sentidos-en-disputa
 
 - title: La investigación (2020-2022)
   img: img/new/house.png

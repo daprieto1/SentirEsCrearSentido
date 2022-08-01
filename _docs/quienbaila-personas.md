@@ -1,5 +1,5 @@
 ---
-title: Multiforme y Complejo
+title: Las Personas
 container: wide-container
 right_sidebar: true
 navbar:
@@ -25,4 +25,4 @@ custom_css:
 - assets/bootstrap/css/bootstrap-select.min.css
 ---
 
-{% include elbaile-multiforme-y-complejo.html %}
+{% include quienbaila-personas.html %}

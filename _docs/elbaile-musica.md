@@ -1,5 +1,5 @@
 ---
-title: Multiforme y Complejo
+title: La Música
 container: wide-container
 right_sidebar: true
 navbar:
@@ -17,12 +17,15 @@ custom_js:
 - js/anchor.js
 - assets/bootstrap/js/bootstrap-select.min.js
 - assets/magnify-pop/jquery.magnific-popup.min.js
+- assets/Youtube-Channels-Playlist/js/ycp.js
+- assets/Youtube-Channels-Playlist/js/ycp.js
 
 custom_css:
 - assets/prism/prism.css
 - assets/font-size/css/rvfs.css
 - assets/mcustomscrollbar/jquery.mCustomScrollbar.min.css
 - assets/bootstrap/css/bootstrap-select.min.css
+- assets/Youtube-Channels-Playlist/css/ycp.css
 ---
 
-{% include elbaile-multiforme-y-complejo.html %}
+{% include elbaile-musica.html %}

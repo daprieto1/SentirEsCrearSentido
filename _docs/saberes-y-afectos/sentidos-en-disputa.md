@@ -1,5 +1,5 @@
 ---
-title: Multiforme y Complejo
+title: Sentidos en disputa
 container: wide-container
 right_sidebar: true
 navbar:
@@ -25,4 +25,4 @@ custom_css:
 - assets/bootstrap/css/bootstrap-select.min.css
 ---
 
-{% include elbaile-multiforme-y-complejo.html %}
+{% include saberes-y-afectos/sentidos-en-disputa.html %}
