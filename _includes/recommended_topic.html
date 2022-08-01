@@ -27,6 +27,43 @@
                     </div>
                 {% endfor %}
             </div>
+            <div class="row">
+                {% for item in site.data.investigation_topics %}
+                <div class="col-lg-6 col-6 offset-col-lg-3 offset-3">
+                    <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                        <img src="{{item.img}}" alt="">
+                        <a href="#">
+                            <h3>{{item.title}}</h3>
+                        </a>
+                        <ul class="list-unstyled">
+                            {% for innerItem in item.child %}
+                            <li>
+                                <a href="{{innerItem.url | relative_url}}">{{innerItem.subtitle}}</a>
+                                {%if innerItem.child %}
+                                <ul class="list-unstyled">
+                                    {% for innerItem2 in innerItem.child %}
+                                    <li>
+                                        <a href="{{innerItem2.url | relative_url}}">{{innerItem2.subtitle}}</a>
+                                        {%if innerItem2.child %}
+                                        <ul class="list-unstyled">
+                                            {% for innerItem3 in innerItem2.child %}
+                                            <li>
+                                                <a href="{{innerItem3.url | relative_url}}">{{innerItem3.subtitle}}</a>
+                                            </li>
+                                            {% endfor %}
+                                        </ul>
+                                        {% endif %}
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
             <div class="text-center wow fadeInUp" data-wow-delay="0.2s">
                 <a class="question_text" href="#">Want to know more or have a<br>
                     Question?

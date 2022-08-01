@@ -28,17 +28,3 @@
     - subtitle: Sentidos en disputa
       url: /docs/saberes-y-afectos/sentidos-en-disputa
 
-- title: La investigación (2020-2022)
-  img: img/new/house.png
-  child:
-    - subtitle: La apuesta
-      url: /docs/doc-ref-shortcuts
-    - subtitle: El escenario
-      url: /docs/doc-ref-footnotes
-    - subtitle: Metodología
-      url: /docs/doc-ref-tour
-    - subtitle: Diálogos teóricos
-      url: /docs/doc-ref-can-use
-    - subtitle:  El horizonte
-      url: /docs/doc-content-tooltip
-

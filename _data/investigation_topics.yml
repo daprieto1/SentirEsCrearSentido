@@ -1,0 +1,29 @@
+- title: La investigación (2020-2022)
+  img: img/new/house.png
+  child:
+    - subtitle: La apuesta
+      url: /docs/doc-ref-shortcuts
+    - subtitle: El escenario
+      url: /docs/doc-ref-footnotes
+      child:
+        - subtitle: Academia Son de Habana
+          url: /docs/investigacion/el-escenario/academia-son-de-habana
+        - subtitle: Mi ejercicio pedagógico
+          url: /docs/investigacion/el-escenario/ejercicio-pedagogico
+    - subtitle: Metodología
+      url: /docs/doc-ref-tour
+      child:
+        - subtitle: El relato etnográfico
+          url: /docs/investigacion/metodologia/relato-etnografico
+        - subtitle: Lo autoetnográfico
+          url: /docs/investigacion/metodologia/autoetnografico
+        - subtitle: La atención somática
+          url: /docs/investigacion/metodologia/atencion-somatica
+        - subtitle: Entrevistas
+          child:
+          - subtitle: Una historia personal con el baile
+            url: /docs/investigacion/metodologia/entrevistas/historia-personal-baile
+          - subtitle: Entrevistas bailadas
+            url: /docs/investigacion/metodologia/entrevistas/entrevistas-bailadas
+    - subtitle: Diálogos teóricos
+      url: /docs/investigacion/dialogos-teoricos
