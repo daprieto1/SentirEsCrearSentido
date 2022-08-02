@@ -5,9 +5,9 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Docy
-description:        Documentation Jekyll theme.
-lang:               en
+title:              Sentir es crear sentido
+description:        Baile, saberes y afectos
+lang:               es
 
 # Site base hostname & protocol, e.g. http://example.com
 url: 'daprieto1.github.io'
