@@ -5,13 +5,17 @@ left:
     url: /
 
   - title: Investigación 2020 - 2022
-    url: /blog
+    url: /#investigation
 
   - title: Mini serie
     url: /mini-serie
 
-  - title: Playlist
-    url: /blog
+  - title: Eventos
+    dropdown:
+      - title: Tertulia bailada
+        url: /SentirEsCrearSentido/tertulia-bailada
+      - title: Lanzamiento miniserie documental
+        url: /SentirEsCrearSentido/lanzamiento-miniserie-documental
 
   - title: Investigadora
-    url: /blog
+    url: /investigadora

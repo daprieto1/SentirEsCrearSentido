@@ -1,7 +1,7 @@
 ---
 title: Mi ejercicio pedagógico
 container: wide-container
-category: reference
+category: Investigación
 right_sidebar: true
 search: true
 banner: true

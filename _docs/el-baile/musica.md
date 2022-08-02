@@ -5,9 +5,9 @@ right_sidebar: true
 navbar:
 type: menu_purple
 right_nav_tool: true
-category: 
+category: El baile
 search: true
-banner: banner_gradient
+banner: true
 tags: []
 custom_js:
 - assets/prism/prism.js
@@ -28,4 +28,4 @@ custom_css:
 - assets/Youtube-Channels-Playlist/css/ycp.css
 ---
 
-{% include elbaile-musica.html %}
+{% include el-baile/musica.html %}

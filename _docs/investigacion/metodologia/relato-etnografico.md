@@ -1,7 +1,7 @@
 ---
 title: El trabajo de campo y el relato etnográfico
 container: wide-container
-category: reference
+category: Investigación
 right_sidebar: true
 search: true
 banner: true

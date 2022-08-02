@@ -1,13 +1,13 @@
 ---
 title: Can I Use
 container: wide-container
-category: reference
+category: Investigación
 right_sidebar: true
 search: true
 banner: true
 navbar:
     right_nav_tool: true
-tags: [reference,instruction]
+tags: 
 custom_js:
 - js/jquery.parallax-scroll.js
 - assets/font-size/js/rv-jquery-fontsize-2.0.3.min.js

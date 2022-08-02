@@ -5,9 +5,9 @@ right_sidebar: true
 navbar:
 type: menu_purple
 right_nav_tool: true
-category: 
+category: ¿Quién baila?
 search: true
-banner: banner_gradient
+banner: true
 tags: []
 custom_js:
 - assets/prism/prism.js
@@ -25,4 +25,4 @@ custom_css:
 - assets/bootstrap/css/bootstrap-select.min.css
 ---
 
-{% include quienbaila-personas.html %}
+{% include quien-baila/personas.html %}

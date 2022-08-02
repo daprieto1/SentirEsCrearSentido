@@ -1,7 +1,7 @@
 ---
 title: Academia Son de Habana
 container: wide-container
-category: reference
+category: Investigación
 right_sidebar: true
 search: true
 banner: true

@@ -5,9 +5,9 @@ right_sidebar: true
 navbar:
 type: menu_purple
 right_nav_tool: true
-category: 
+category: Saberes y afectos
 search: true
-banner: banner_gradient
+banner: true
 tags: []
 custom_js:
 - assets/prism/prism.js
