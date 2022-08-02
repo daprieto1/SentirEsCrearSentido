@@ -54,7 +54,7 @@ disqus:
     shortname:     #12345
 
 # Google Analytics
-google_analytics: #UA—XXXXXXXX-X
+google_analytics: "G-B9VN13S72X"
 
 plugins:
   - jekyll-liquify
