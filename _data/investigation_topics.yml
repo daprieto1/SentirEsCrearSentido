@@ -4,7 +4,7 @@
     - subtitle: La apuesta
       url: /docs/doc-ref-shortcuts
     - subtitle: El escenario
-      url: /docs/doc-ref-footnotes
+      url: /docs/investigacion/apuesta
       child:
         - subtitle: Academia Son de Habana
           url: /docs/investigacion/el-escenario/academia-son-de-habana

@@ -1,5 +1,5 @@
 ---
-title: Can I Use
+title: La Apuesta
 container: wide-container
 category: Investigación
 right_sidebar: true
@@ -22,4 +22,4 @@ custom_css:
 - assets/bootstrap/css/bootstrap-select.min.css
 ---
 
-{% include doc_can_use.html %}
+{% include investigacion/apuesta.html %}
