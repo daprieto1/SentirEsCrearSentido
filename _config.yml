@@ -18,10 +18,10 @@ baseurl:            "/SentirEsCrearSentido"
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink: /:title/
 
-logo: img/logo.png
-logo2x: img/logo-2x.png
-white_logo: img/logo-w.png
-white_logo2x: img/logo-w2x.png
+logo: img/navbar/logo.png
+logo2x: img/navbar/logo.png
+white_logo: img/navbar/logo.png
+white_logo2x: img/navbar/logo.png
 
 
 footer:

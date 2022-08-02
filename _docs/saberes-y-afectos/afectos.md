@@ -1,5 +1,5 @@
 ---
-title: Saberes
+title: Afectos
 container: wide-container
 right_sidebar: true
 navbar:

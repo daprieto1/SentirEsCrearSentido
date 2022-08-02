@@ -1,6 +1,7 @@
 ---
 title: Multiforme y Complejo
 container: wide-container
+full_width: true
 right_sidebar: true
 navbar:
 type: menu_purple

@@ -3,8 +3,8 @@ title: Without Banner
 container: wide-container
 right_sidebar: true
 navbar:
- right_nav_tool: true
- class: position-static
+right_nav_tool: true
+class: position-static
 category: layout
 search: true
 banner: false

@@ -2,21 +2,21 @@
   img: img/new/smile.png
   child:
     - subtitle: Multiforme y complejo
-      url: /docs/elbaile-multiforme-y-complejo
+      url: /docs/el-baile/multiforme-y-complejo
     - subtitle: Ritmos latinos/afrolatinos
       url: /docs/doc-element-notice
     - subtitle: La música
-      url: /docs/elbaile-musica
+      url: /docs/el-baile/musica
 
 - title: ¿Quién baila?
   img: img/new/doc.png
   child:
     - subtitle: Las personas
-      url: /docs/quienbaila-personas
+      url: /docs/quien-baila/personas
     - subtitle: Sus cuerpos
-      url: /docs/quienbaila-cuerpos
+      url: /docs/quien-baila/cuerpos
     - subtitle: Identidades bailadas
-      url: /docs/quienbaila-identidades
+      url: /docs/quien-baila/identidades
 
 - title: Saberes y afectos
   img: img/new/bag.png

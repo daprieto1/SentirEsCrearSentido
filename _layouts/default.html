@@ -19,11 +19,13 @@
         {% assign navbar_btnClass = page.navbar.btnClass | default: 'tp_btn' %}
 
         {% unless page.permalink == '/404.html' %}
-        {% include navbar.html class=navbar_class   type=navbar_type  btnCls=navbar_btnClass  btn_title="Get Docy" btn_link="/" %}
+        {% include navbar.html  btnCls=navbar_btnClass  btn_title="Get Docy" btn_link="/" %}
             
         {% endunless %}
         <div class="click_capture"></div>
         {{ content }}
+
+        <!--
 
         {% unless page.permalink == '/404.html' %}
             {% if page.layout == 'doc' %}
@@ -32,6 +34,7 @@
                 {% include footer_one.html class=page.footer.class  %}
             {% endif %}
         {% endunless %}
+        -->
     </div>
 
     <!-- Back to top button -->

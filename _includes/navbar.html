@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg {{ include.class }} {{include.type}} sticky-nav">
+<nav class="navbar navbar-expand-lg menu_one menu_purple sticky-nav gap fadeInDown navbar_fixed">
     <div class="container">
         <a class="navbar-brand header_logo" href="{{ '/' | relative_url}}">
             {% if include.type == 'dark_menu' %}
@@ -9,9 +9,9 @@
             {% assign imgWClass = 'white_logo main_logo' %}
             {% endif %}
 
-            <img class='{{imgClass}}' src="{{site.logo | relative_url}}"
+            <img style="max-width: 150px" class='{{imgClass}}' src="{{site.logo | relative_url}}"
                 srcset="{{site.logo2x | relative_url}} 2x" alt="logo">
-            <img class='{{imgWClass}}' src="{{site.white_logo | relative_url}}" srcset="{{site.white_logo2x | relative_url}} 2x" alt="logo">
+            <img style="max-width: 150px" class='{{imgWClass}}' src="{{site.white_logo | relative_url}}" srcset="{{site.white_logo2x | relative_url}} 2x" alt="logo">
         </a>
         <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
             class="navbar-toggler collapsed" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
@@ -105,26 +105,7 @@
                 </li>
                 {% endfor %}
             </ul>
-            <div class="right-nav">
-                <a class="nav_btn {{include.btnCls}} " href="{{include.btn_link}}">{{include.btn_title}}</a>
-                {% if page.navbar.right_nav_tool %}
-                <a class="px-2 ml-3" href="#" title="Subscribe to the newsletter">
-                    <ion-icon name="mail"></ion-icon>
-                </a>
-                <a class="px-2" href="#" title="RSS feed">
-                    <ion-icon name="logo-rss"></ion-icon>
-                </a>
-                <div class="px-2 js-darkmode-btn" title="Toggle dark mode">
-                    <label for="something" class="tab-btn tab-btns">
-                        <ion-icon class="light-mode" name="contrast"></ion-icon>
-                    </label>
-                    <input type="checkbox" name="something" id="something" class="dark_mode_switcher">
-                    <label for="something" class="tab-btn">
-                        <ion-icon class="dark-mode" name="contrast-outline"></ion-icon>
-                    </label>
-                </div>
-                {% endif %}
-            </div>
+
         </div>
     </div>
 </nav>
